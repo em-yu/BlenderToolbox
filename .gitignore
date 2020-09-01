@@ -10,3 +10,5 @@ meshes/*.m
 cycles/*.sh
 myScripts/
 myShapes/
+
+cycles/results/study_results/
